@@ -1,4 +1,4 @@
-# System Design Interview Framework
+# System Design Interview Framework :memo:
 
 This document defines a suggested system design interview structure, which can be used as a guideline. Please feel free to open a PR with suggestions!
 
