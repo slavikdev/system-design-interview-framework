@@ -1,6 +1,6 @@
 # System Design Interview Framework
 
-This document defines a suggested system design interview structure, which can be used as a guideline. The goal is to provide a sufficient framework. Please feel free to open a PR with suggestions!
+This document defines a suggested system design interview structure, which can be used as a guideline. Please feel free to open a PR with suggestions!
 
 ## Interview Steps
 
