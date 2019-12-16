@@ -42,7 +42,7 @@ This document defines a suggested system design interview structure, which can b
 
 #### Clarifying questions
 
-* TODO
+* If it’s an API, what endpoints will we need?
 
 #### Examples
 
