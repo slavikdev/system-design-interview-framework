@@ -6,7 +6,7 @@ This document defines a suggested system design interview structure, which can b
 
 ### 1. Collect requirements
 
-#### 1.1 Identify functional requirements
+#### 1.1 Functional requirements
 
 ##### Clarifying questions
 
@@ -17,7 +17,17 @@ This document defines a suggested system design interview structure, which can b
 
 * TODO
 
-#### 1.2 Identify non-functional requirements
+#### 1.2 Main stakeholders of the system
+
+##### Clarifying questions
+
+* Who are the main users of the system?
+
+##### Examples
+
+* TODO
+
+#### 1.3 Non-functional requirements
 
 ##### Clarifying questions
 
@@ -30,27 +40,10 @@ This document defines a suggested system design interview structure, which can b
 
 * TODO
 
-### 3. Identify main stakeholders of the system
+-------
 
-#### Clarifying questions
 
-* Who are the main users of the system?
-
-#### Examples
-
-* TODO
-
-### 4. Define the main components
-
-#### Clarifying questions
-
-* If it’s an API, what endpoints will we need?
-
-#### Examples
-
-* TODO
-
-### 5. Back-of-the-envelope calculation
+### 2. Back-of-the-envelope calculation
 
 #### Clarifying questions
 
@@ -76,8 +69,21 @@ This document defines a suggested system design interview structure, which can b
 * Local area network (LAN) round-trip
 * Cross-continental network
 
+-------
 
-### 6. Define data model
+### 3. Define main functional components
+
+#### Clarifying questions
+
+* If it’s an API, what endpoints will we need?
+
+#### Examples
+
+* TODO
+
+-------
+
+### 4. Define data model
 
 #### Clarifying questions
 
@@ -87,14 +93,17 @@ This document defines a suggested system design interview structure, which can b
 
 * TODO
 
+-------
 
-### 7. Create high-level design (draw a block diagram)
+### 5. Create high-level design (draw a block diagram)
 
 #### Examples
 
 * TODO
 
-### 8. Create detailed design (cache, replicas, detalization of individual components)
+-------
+
+### 6. Add details (cache, replicas, detalization of individual components)
 
 #### Clarifying questions
 
@@ -108,7 +117,9 @@ This document defines a suggested system design interview structure, which can b
 
 * TODO
 
-### 9. Identifying bottlenecks
+-------
+
+### 7. Identifying bottlenecks
 
 #### Clarifying questions
 
@@ -122,7 +133,9 @@ This document defines a suggested system design interview structure, which can b
 
 * TODO
 
-### 10. Add telemetry: monitoring, logging
+-------
+
+### 8. Add telemetry: monitoring, logging
 
 #### Clarifying questions
 
@@ -131,6 +144,8 @@ This document defines a suggested system design interview structure, which can b
 #### Examples
 
 * TODO
+
+-------
 
 ## Must know
 
