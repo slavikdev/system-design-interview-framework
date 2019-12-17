@@ -71,7 +71,7 @@ This document defines a suggested system design interview structure, which can b
 
 -------
 
-### 3. Define main functional components
+### 3. Define system interface
 
 #### Clarifying questions
 
