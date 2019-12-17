@@ -4,27 +4,29 @@ This document defines a suggested system design interview structure, which can b
 
 ## Interview Steps
 
-### 1. Identify functional requirements
+### 1. Collect requirements
 
-#### Clarifying questions
+#### 1.1 Identify functional requirements
+
+##### Clarifying questions
 
 * What will the system do?
 * What exactly are we going to build: API, web app, mobile app?
 
-#### Examples
+##### Examples
 
 * TODO
 
-### 2. Identify non-functional requirements
+#### 1.2 Identify non-functional requirements
 
-#### Clarifying questions
+##### Clarifying questions
 
 * How can we tell that the system is working?
 * Is there a bottleneck in the design?
 * How do the components work together?
 * How do we provide great service to everyone?
 
-#### Examples
+##### Examples
 
 * TODO
 
